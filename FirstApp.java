@@ -5,7 +5,7 @@ public class FirstApp {
        // System.out.println ("Абракадабра777") ;
         int a;
         int b;
-        a = 148;
+        a = 128;
 
         System.out.println("a=" +a);
         b = a/2;
