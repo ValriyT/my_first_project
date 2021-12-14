@@ -6,6 +6,7 @@ public class FirstApp {
         int a;
         int b;
         a = 128;
+        b = 7756;
         System.out.println("a=" +a);
         b = a/2;
         System.out.println("b=a/2=" +b);
